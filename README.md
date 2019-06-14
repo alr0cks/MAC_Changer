@@ -1,3 +1,5 @@
 # MAC Changer
 
-The very basic Hard Coded MAC Changer
+A MAC Changer which takes user input and changes the MAC Address.
+
+Written in Python3
